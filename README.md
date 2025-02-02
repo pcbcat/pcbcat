@@ -16,6 +16,6 @@ I’m currently working on:
   - Retro consoles
   - ROM Hacking
 
-📫 How to reach me: 
+📫 How to contact me: 
   - `garfieldcat` on Discord
   - `garfieldcat` on [AIM](https://nina.chat/)
