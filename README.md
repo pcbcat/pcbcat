@@ -2,11 +2,13 @@
 My name is pcbcat, I am from the US 🇺🇸 and I am learning multiple programing languages.
 
 I’m currently working on:
-  - NukedSCPlayer
+  - [NukedSCPlayer](https://github.com/pcbcat/NukedSCPlayer)
   - [My Website](https://pcbcat.neocities.org)
   
 🌱 I’m currently learning:
-  - C++, Python, C#
+  - C++
+  - Python
+  - C#
 
 👀 My intrests are:
   - Computing and coding (obviously)
