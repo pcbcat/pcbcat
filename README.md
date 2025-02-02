@@ -7,6 +7,12 @@ I’m currently working on:
 🌱 I’m currently learning:
   - C++, Python, C#
 
+👀 My intrests are:
+  - Computing and coding (obviously)
+  - Retro computers
+  - Retro consoles
+  - ROM Hacking
+
 📫 How to reach me: 
   - `garfieldcat` on Discord
   - `garfieldcat` on [AIM](https://nina.chat/)
