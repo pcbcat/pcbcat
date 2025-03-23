@@ -1,17 +1,18 @@
 ## Greetings! 👋😃
 My name is pcbcat, I am from the US 🇺🇸 and I am learning multiple programing languages.
 
-I’m currently working on:
+🛠️ I’m currently working on:
   - [NukedSCPlayer](https://github.com/pcbcat/NukedSCPlayer)
   - [My Website](https://pcbcat.neocities.org)
   - A secret project...
+  - Some C++ cheatsheets (not finished)
   
-🌱 I’m currently learning:
+📚 I’m currently learning:
   - C++
   - Python
   - C#
 
-👀 My intrests are:
+💫 My intrests are:
   - Computing and coding (obviously)
   - Retro computers
   - Retro consoles
