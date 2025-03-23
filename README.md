@@ -4,6 +4,7 @@ My name is pcbcat, I am from the US 🇺🇸 and I am learning multiple programi
 I’m currently working on:
   - [NukedSCPlayer](https://github.com/pcbcat/NukedSCPlayer)
   - [My Website](https://pcbcat.neocities.org)
+  - A secret project...
   
 🌱 I’m currently learning:
   - C++
