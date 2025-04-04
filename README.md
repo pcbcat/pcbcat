@@ -2,18 +2,17 @@
 My name is pcbcat, I am from the US 🇺🇸 and I am learning multiple programing languages.
 
 🛠️ I’m currently working on:
-  - cppconvert
+  - [cppconvert](https://github.com/pcbcat/cppconvert)
   - [My Website](https://pcbcat.neocities.org)
   - A secret project...
   - Some C++ cheatsheets (not finished)
   
 📚 I’m currently learning:
   - C++
-  - Python
-  - C#
 
 💫 My intrests are:
   - Computing and coding (obviously)
+  - Math and calculations
   - Retro computers
   - Retro consoles
   - ROM Hacking
