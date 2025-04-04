@@ -2,7 +2,7 @@
 My name is pcbcat, I am from the US 🇺🇸 and I am learning multiple programing languages.
 
 🛠️ I’m currently working on:
-  - [NukedSCPlayer](https://github.com/pcbcat/NukedSCPlayer)
+  - cppconvert
   - [My Website](https://pcbcat.neocities.org)
   - A secret project...
   - Some C++ cheatsheets (not finished)
