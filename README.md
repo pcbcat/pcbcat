@@ -20,6 +20,7 @@ My name is pcbcat, I am from the US 🇺🇸 and I am learning multiple programi
 📫 How to contact me: 
   - `garfieldcat` on Discord
   - `garfieldcat` on [AIM](https://nina.chat/)
+  - `‪@pcbcat.bsky.social‬` on [Bluesky](https://bsky.app/profile/pcbcat.bsky.social)
 
 <table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
   <tr>
