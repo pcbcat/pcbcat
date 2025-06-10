@@ -2,10 +2,7 @@
 My name is pcbcat, I am from the US 🇺🇸 and I am learning multiple programing languages.
 
 🛠️ I’m currently working on:
-  - [My Website](https://pcbcat.neocities.org)
-  - A secret project...
-  - Some C++ cheatsheets (not finished)
-  - Other random crap
+  - Nothing right now, too busy
   
 📚 I’m currently learning:
   - C++
@@ -18,6 +15,7 @@ My name is pcbcat, I am from the US 🇺🇸 and I am learning multiple programi
   - ROM Hacking
 
 📫 How to contact me: 
+  - My [OpenPGP Key](https://github.com/pcbcat/pcbcat/blob/e8e695715c7232013cf7b4c67b030fe658d8fca2/pgpkey)
   - `garfieldcat` on Discord
   - `garfieldcat` on [AIM](https://nina.chat/)
   - `‪@pcbcat.bsky.social‬` on [Bluesky](https://bsky.app/profile/pcbcat.bsky.social)
