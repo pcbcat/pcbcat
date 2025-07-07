@@ -15,7 +15,7 @@ My name is pcbcat, I am from the US 🇺🇸 and I am learning multiple programi
   - ROM Hacking
 
 📫 How to contact me: 
-  - My [OpenPGP Key](https://github.com/pcbcat/pcbcat/blob/e8e695715c7232013cf7b4c67b030fe658d8fca2/pgpkey)
+  - My [OpenPGP Key](https://github.com/pcbcat/pcbcat/blob/cbe2a61e1f22af6f40d2ff3b33541dcf0241809f/pgpkey)
   - `garfieldcat` on Discord
   - `garfieldcat` on [AIM](https://nina.chat/)
   - `‪@pcbcat.bsky.social‬` on [Bluesky](https://bsky.app/profile/pcbcat.bsky.social)
