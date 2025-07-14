@@ -1,26 +1,4 @@
-<a href="https://github.com/pcbcat">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=pcbcat&show_icons=true&theme=dark" />
-    <img align="left" alt="pcbcat's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=pcbcat&show_icons=true&theme=default" />
-  </picture>
-</a>
-<a href="https://github.com/pcbcat">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pcbcat&layout=donut&theme=dark" />
-    <img align="left" alt="pcbcat's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pcbcat&layout=donut&theme=default" />
-  </picture>
-</a><a href="https://github.com/pcbcat">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=pcbcat&show_icons=true&theme=dark" />
-    <img align="left" alt="pcbcat's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=pcbcat&show_icons=true&theme=default" />
-  </picture>
-</a>
-<a href="https://github.com/pcbcat">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pcbcat&layout=donut&theme=dark" />
-    <img align="left" alt="pcbcat's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pcbcat&layout=donut&theme=default" />
-  </picture>
-</a>## Greetings! 👋😃
+## Greetings! 👋😃
 My name is pcbcat, I am from the US 🇺🇸 and I am learning multiple programing languages.
 
 🛠️ I’m currently working on:
