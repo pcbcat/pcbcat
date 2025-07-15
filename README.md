@@ -15,17 +15,16 @@ My name is pcbcat, I am from the US 🇺🇸 and I am learning multiple programi
   - ROM Hacking
 
 📫 How to contact me: 
-  - My [OpenPGP Key](https://github.com/pcbcat/pcbcat/blob/cbe2a61e1f22af6f40d2ff3b33541dcf0241809f/pgpkey)
+  - My [OpenPGP Key](https://github.com/pcbcat/pcbcat/blob/cbe2a61e1f22af6f40d2ff3b33541dcf0241809f/pgpkey) ([OpenPGP DB](https://keys.openpgp.org/search?q=thepcbcat%40gmail.com))
   - `garfieldcat` on Discord
   - `‪@pcbcat.bsky.social‬` on [Bluesky](https://bsky.app/profile/pcbcat.bsky.social)
 
 📊 My Stats:
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pcbcat/pcbcat/main/dist/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pcbcat/pcbcat/main/dist/github-snake.svg">
-  <img alt="github snake animation" src="https://raw.githubusercontent.com/pcbcat/pcbcat/main/dist/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
 </picture>
-
 <a href="https://github.com/pcbcat">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=pcbcat&show_icons=true&theme=dark" />
