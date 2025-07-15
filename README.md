@@ -21,9 +21,9 @@ My name is pcbcat, I am from the US 🇺🇸 and I am learning multiple programi
 
 📊 My Stats:
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPOSITORY/main/dist/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPOSITORY/main/dist/github-snake.svg">
-  <img alt="github snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPOSITORY/main/dist/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pcbcat/pcbcat/main/dist/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pcbcat/pcbcat/main/dist/github-snake.svg">
+  <img alt="github snake animation" src="https://raw.githubusercontent.com/pcbcat/pcbcat/main/dist/github-snake.svg">
 </picture>
 
 <a href="https://github.com/pcbcat">
