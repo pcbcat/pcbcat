@@ -20,10 +20,12 @@ My name is pcbcat, I am from the US 🇺🇸 and I am learning multiple programi
   - `‪@pcbcat.bsky.social‬` on [Bluesky](https://bsky.app/profile/pcbcat.bsky.social)
 
 📊 My Stats:
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pcbcat/pcbcat/5e46b991b14dccc2a7736e3e40b9bf191488b97b/dist/github-snake-dark.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/pcbcat/pcbcat/5e46b991b14dccc2a7736e3e40b9bf191488b97b/dist/github-snake.svg" />
-</picture>
+<a href="https://github.com/pcbcat">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pcbcat/pcbcat/5e46b991b14dccc2a7736e3e40b9bf191488b97b/dist/github-snake-dark.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/pcbcat/pcbcat/5e46b991b14dccc2a7736e3e40b9bf191488b97b/dist/github-snake.svg" />
+  </picture>
+</a>
 <a href="https://github.com/pcbcat">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=pcbcat&show_icons=true&theme=dark" />
